@@ -10,7 +10,7 @@ namespace Hello_Wrold.Controllers
     {
         public ActionResult Index()
         {
-            
+            return View();
         }
 
         public ActionResult About()
